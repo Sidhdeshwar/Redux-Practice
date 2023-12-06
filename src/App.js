@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App"> 
       <header className="App">
+        <h1>Git Hub</h1>
            <Header></Header>
       </header>
       <div>
